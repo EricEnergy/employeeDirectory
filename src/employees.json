@@ -1,0 +1,99 @@
+[
+    {
+      "id": 1,
+      "name": "SpongeBob",
+      "image": "placeholder",
+      "occupation": "Fry Cook",
+      "location": "A Pineapple Under the Sea",
+      "sex": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Mr. Krabs",
+      "image": "placeholder",
+      "occupation": "Restaurant Owner",
+      "location": "A Giant Anchor",
+      "sex": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Squidward",
+      "image": "placeholder",
+      "occupation": "Cashier",
+      "location": "An Easter Island Head",
+      "sex": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Dexter",
+      "image": "placeholder",
+      "occupation": "Boy Genius",
+      "location": "A Secret Laboratory",
+      "sex": "Male"
+  
+    },
+    {
+      "id": 5,
+      "name": "Courage",
+      "image": "placeholder",
+      "occupation": "A Cowardly Dog",
+      "location": "Nowhere, Kansas",
+      "sex": "Male"
+    },
+    {
+      "id": 6,
+      "name": "Doug Funnie",
+      "image": "placeholder",
+      "occupation": "Student",
+      "location": "Bluffington",
+      "sex": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Bugs Bunny",
+      "image": "placeholder",
+      "occupation": "Looney Toon",
+      "location": "A Rabbit Burrow",
+      "sex": "Male"
+    },
+    {
+      "id": 8,
+      "name": "Johnny Bravo",
+      "image": "placeholder",
+      "occupation": "Ladies Man",
+      "location": "Aron City",
+      "sex": "Male"
+    },
+    {
+      "id": 9,
+      "name": "Tommy Pickles",
+      "image": "placeholder",
+      "occupation": "Adventurer",
+      "location": "California",
+      "sex": "Male"
+    },
+    {
+      "id": 10,
+      "name": "Rocko",
+      "image": "placeholder",
+      "occupation": "Cashier",
+      "location": "O-Town, California",
+      "sex": "Male"
+    },
+    {
+      "id": 11,
+      "name": "Captain Planet",
+      "image": "placeholder",
+      "occupation": "Superhero",
+      "location": "Earth",
+      "sex": "Male"
+    },
+    {
+      "id": 12,
+      "name": "Ickis",
+      "image": "placeholder",
+      "occupation": "Ahhhh! A Real Monster!",
+      "location": "Under a City Dump",
+      "sex": "Male"
+    }
+  ]
