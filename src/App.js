@@ -9,7 +9,7 @@ function App() {
     <Router>
       <div>
       <Navbar />
-      <Route exact path="/" component={Index}/>
+      <Route exact path="/employeedirectory" component={Index}/>
       {/* <Route exact path="/ao" component={AO} />
       <Route path="/contact" component={Contact} />
       <Route path="/contact" component={Contact} /> */}
